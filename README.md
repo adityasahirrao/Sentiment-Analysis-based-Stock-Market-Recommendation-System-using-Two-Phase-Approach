@@ -15,7 +15,7 @@ This project develops a **hybrid stock market prediction system** by integrating
 - Engineered **time-series features** and **scaled data** for forecasting.  
 - Implemented multiple deep learning models:
   - **Combination of FB Prophet & Multivariate Attention-Based Stacked LSTM** 
-  - **FB Prophet**    
+  - **Multivariate Attention-Based Stacked LSTM**   
   - **Bidirectional LSTM**  
   - **Simple LSTM**  
 - Achieved **high prediction accuracy**:  
