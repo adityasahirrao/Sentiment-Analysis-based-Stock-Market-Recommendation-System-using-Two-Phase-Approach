@@ -13,9 +13,9 @@ This project develops a **hybrid stock market prediction system** by integrating
 ### 📌 Phase 2: Technical Analysis  
 - Gathered **10 years of stock price data (200,000+ records)** via the **Yahoo Finance API**.  
 - Engineered **time-series features** and **scaled data** for forecasting.  
-- Implemented multiple deep learning models:  
-  - **FB Prophet**  
-  - **Multivariate Attention-Based Stacked LSTM**  
+- Implemented multiple deep learning models:
+  - **Combination of FB Prophet & Multivariate Attention-Based Stacked LSTM** 
+  - **FB Prophet**    
   - **Bidirectional LSTM**  
   - **Simple LSTM**  
 - Achieved **high prediction accuracy**:  
